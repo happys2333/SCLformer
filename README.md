@@ -2,7 +2,7 @@
 SCLformer for LSTF problem
 
 ## Introduce
-SCLformer is short for Self-adaptive Convolution Linear Transformer. It is a transformer-based model for LSTF problem. The model is based on the [paper](). The model is implemented by Pytorch.
+SCLformer is short for Self-adaptive Convolution Linear Transformer. It is a transformer-based model for LSTF problem. The model is based on the [paper](https://github.com/happys2333/SCLformer/blob/main/SCLformer.pdf). The model is implemented by Pytorch.
 
 ## Usage
 ### Dataset
